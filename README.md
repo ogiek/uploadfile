@@ -1,5 +1,5 @@
 # InstaBot
-https://github.com/Senitopeng/instabot.git
+https://github.com/ogiek/uploadfile.git
 
 
 #ini Hanya Penggabungan,
